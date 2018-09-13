@@ -47,3 +47,5 @@ int findDuplicate3(vector<int>& nums)
 	}
 	return -1;
 }
+
+https://blog.csdn.net/monkeyduck/article/details/50439840,很神奇
